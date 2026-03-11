@@ -1,0 +1,26 @@
+{
+  "name": "control-de-versiones",
+  "version": "1.0.0",
+  "description": "Proyecto del SENA - Tercer trimestre, desarrollo de software. Desarrollado por: Manuela Córdoba Robledo",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "format": "prettier . --write",
+    "format:check": "prettier . --check"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robledocordoba123-cmyk/Control-De-Versiones.git"
+  },
+  "keywords": [],
+  "author": "Manuela Córdoba Robledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/robledocordoba123-cmyk/Control-De-Versiones/issues"
+  },
+  "homepage": "https://github.com/robledocordoba123-cmyk/Control-De-Versiones#readme",
+  "devDependencies": {
+    "prettier": "^3.8.1"
+  }
+}
