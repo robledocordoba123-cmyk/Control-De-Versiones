@@ -11,6 +11,7 @@ Desarrollado por: Manuela Córdoba Robledo - Ficha 3229209
 3. Abre el archivo index.html en tu navegador
 
 ## Tecnologías usadas
+
 - HTML
 - CSS
 - JavaScript
