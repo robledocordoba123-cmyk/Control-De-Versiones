@@ -20,7 +20,7 @@ jobs:
           if [ -f package.json ]; then npm ci || npm install; fi
 
       - name: Lint (Prettier)
-        run: npx prettier . --check
+        run: npx prettier . --check --end-of-line lf
 
       - name: Tests (Node 20 runner)
         run: |
