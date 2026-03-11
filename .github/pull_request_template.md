@@ -1,10 +1,13 @@
 ## Descripción
+
 Explica qué cambios introduces y por qué son necesarios.
 
 ## Evidencia
+
 (Agrega capturas de pantalla aquí)
 
 ## Checklist
+
 - [ ] Mensajes de commit claros
 - [ ] Compila y se ve correctamente
 - [ ] Referencia a issue
@@ -12,4 +15,5 @@ Explica qué cambios introduces y por qué son necesarios.
 - [ ] Sin secretos
 
 ## Referencias
+
 closes #
